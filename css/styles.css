@@ -1,0 +1,20 @@
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(131, 5, 5) !important;
+}
+.navbar ul{
+    padding-left: 70%;
+    font-weight: 500px;
+}
+.navbar ul li a:hover{
+    color: brown !important;
+}
+.navbar ul li{
+    margin-left: 40px;
+    font-size: medium;
+}
+.navbar ul li a{
+    color: black !important;
+}
