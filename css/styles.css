@@ -18,9 +18,9 @@
 .navbar ul li a{
     color: black !important;
 }
-.row{
+/* .row{
     display: flex;
-}
+} */
 body{
     background-color: black;
     background-image: url(../images/background.jpg); 
@@ -40,7 +40,7 @@ body{
 }
 
 .text{
-    padding: 400px;
+    padding: 100px;
     padding-left: 00px;
 }
 .wewe{
@@ -89,4 +89,23 @@ body{
     /* background-color:black; */
     color: white;
     transform: rotateY(180deg);
+  }
+  .contacts{
+      text-align: center;
+      font-size: x-large;
+  }
+  #c1{
+      color: white;
+      display: none;
+  }
+  #c2{
+      color: white;
+      display: none;
+  }
+  #c3{
+      color: white;
+      display: none;
+  }
+  .e3{
+      color: black;
   }
